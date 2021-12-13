@@ -32,7 +32,7 @@ Collection 12 months Medical: total collections in last 12 months excluding medi
 Application Type: indicates when the representative is an individual or joint
 Last week Pay: indicates how long (in weeks) a representative has paid EMI after batch enrolled
 Accounts Delinquent: number of accounts on which the representative is delinquent
-Total Collection Amount: total collection amount ever owed
+Total Collection Amount: total collection amount ever owe
 Total Current Balance: total current balance from all accounts
 Total Revolving Credit Limit: total revolving credit limit
 Loan Status: 1 = Defaulter, 0 = Non Defaulters
