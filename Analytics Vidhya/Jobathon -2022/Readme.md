@@ -17,9 +17,10 @@ Age Binning : Binning was done to group age into equal sized Quantiles. Performe
 
 
 What did not Work
-1) User-User Collaborative Filtering gave a Public LB R2 score of less than 0.4 (around 0.38) and was therefore ignored at the expence of Tree Based Regression Algorithm
+1) User-User Collaborative Filtering gave a Public LB R2 score of less than 0.4 (around 0.38) and was therefore ignored at the expense of Tree Based Regression Algorithm
 
-Future Scope
+Future Scope:
+
 ALS ( Alternating Least Squares) Algorithm works on distributed systems. 
 ALS is implemented in Apache Spark ML and is usually used to solve large scale collaborative filtering problems 
 For reference refer to my past work where I built a Recommendation System using ALS : https://github.com/swapnasamirshukla/ALS-Recommendation
